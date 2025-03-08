@@ -12,9 +12,7 @@
 - **Development Tools:** Git, Docker, Linux, VS Code, Jupyter Notebook
 
 ## 📫 Connect with Me
-- 🔗 [LinkedIn](https://www.linkedin.com/in/amirmohammad-moghadammanesh/)
-- 🐦 [Twitter](https://twitter.com/yourprofile)
-- 📧 Email: your.email@example.com
+- 📧 Email: amiir.moghadam2012@gmail.com
 
 📌 Always happy to connect with AI and software development enthusiasts. If you have an exciting project or idea, feel free to reach out! 🚀
 
